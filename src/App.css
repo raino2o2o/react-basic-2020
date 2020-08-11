@@ -1,0 +1,6 @@
+.list_cate{overflow:hidden;padding:0;margin:0;list-style:none}
+.list_cate li{float:left;margin:20px}
+.list_cate li a{display:block;padding:20px;color:#222;text-decoration: none;background-color:#f0f0f0;}
+.list_cate li a.on{background-color:pink}
+
+.result_food{width:500px;padding:30px;margin-bottom:100px;border:1px solid red}
